@@ -1,4 +1,6 @@
-print("Сосуdsfsfasdfsdfasdf бебру")
-print("мишани")
-print("санечка смотри")
-print("13212")
+#a = 38
+#b = 169
+#print(a % 9)
+#print(b % 9)
+
+#while True: print(eval(input(">>>")))
